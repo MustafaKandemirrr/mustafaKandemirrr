@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakandemirrr&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakandemirrr" /> </p>
 
+<h3>Güncel olarak eğitim aldığım alan: </h3>
+<p>SEO(Search engine optimization)</p>
+<a href="https://www.youtube.com/watch?v=EDJOY8bbAZ4&list=PLaqVtetWSaGhlXiU48bDd8511btrbx6T2">Kullandığım Kaynak: Mehmet Ali Yassı SEO Eğitimi</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
